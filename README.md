@@ -13,7 +13,17 @@ InsightfulCivic provides a range of features and resources to help citizens bett
 
 ## Getting Started
 
-To get started with InsightfulCivic, simply visit our website at [www.insightfulcivic.com](http://www.insightfulcivic.com). From there, you can explore our database of government websites and resources, browse our FAQs and news articles, and join our community forums to connect with other citizens.
+To get started with InsightfulCivic, simply visit our website at [www.insightfulcivic.com](http://www.insightfulcivic.com). From there, you can explore our database of government websites and resources, browse our FAQs and news articles, and join our community forums to connect with other 
+citizens.
+
+## Built With
+
+InsightfulCivic is built with the following technologies:
+
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Contributing
 
